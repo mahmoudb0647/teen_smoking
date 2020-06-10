@@ -17,3 +17,6 @@
 .title {
   color: white;
 }
+.bg {
+  background-image:url(images/smoke.jpeg);
+}
